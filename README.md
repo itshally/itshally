@@ -1,8 +1,6 @@
 ![Test Image 1](https://github.com/itshally/itshally/blob/master/img/header.png)
 ### Hi there, I'm Hally 👋
 
-:round_pushpin: Toronto, Ontario 
-
 :speech_balloon: A web developer who is passionate about learning full-stack. 
 
 :computer: I enjoy working on a front-end because it's where my creativity kicks-in, but I also like doing some back-end stuff.
